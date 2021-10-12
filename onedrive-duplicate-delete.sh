@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Delete duplicate files in OneDrive folder. 
+# Choose pattern (comment/uncomment) 
+# and run in required folder with command: 
+# $ ~/windows-scripts/onedrive-duplicates-folder.sh
+
 ALL_COUNTER=0
 PATTERN=' 1'
 #PATTERN='-DESKTOP-R25IK4F'
