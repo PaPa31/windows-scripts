@@ -4,6 +4,7 @@
 # Choose pattern (comment/uncomment) 
 # and run in required folder with command: 
 # $ ~/windows-scripts/onedrive-duplicates-folder.sh
+# Tested only in Git-Bash
 
 ALL_COUNTER=0
 PATTERN=' 1'
